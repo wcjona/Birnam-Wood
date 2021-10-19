@@ -2,14 +2,14 @@
 Welcome to Birnam Wood, a program aimed to reduce the number of parameters 
 required to make accurate kinetic rate constant predictions.
 
-##Installation
+## Installation
 The following packages must be installed prior to running Birnam Wood
 ```
 pip install -U pandas 
 pip install -U numpy 
 pip install -U scikit-learn
 ```
-##Usage
+## Usage
 Start by cloning the reposititory by using Console or the Github Application.
 Once installed, make sure the dataset files are accessible. First run all cells
 within ```nested_cross_validation.ipynb``` this is a lengthy process as multiple 
