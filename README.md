@@ -1,4 +1,4 @@
-# Birnam-Wood
+# Birnam-Wood by iGEM Calgary
 Welcome to Birnam Wood, a program aimed to reduce the number of parameters 
 required to make accurate kinetic rate constant predictions.
 
